@@ -1,4 +1,4 @@
-package com.cuongdao.shopping_cart.requests;
+package com.cuongdao.shopping_cart.dto;
 
 import com.cuongdao.shopping_cart.model.Category;
 import lombok.Data;

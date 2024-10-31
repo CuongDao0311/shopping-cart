@@ -1,7 +1,7 @@
 package com.cuongdao.shopping_cart.service.product;
 
 import com.cuongdao.shopping_cart.model.Product;
-import com.cuongdao.shopping_cart.requests.ProductDTO;
+import com.cuongdao.shopping_cart.dto.ProductDTO;
 
 import java.util.List;
 

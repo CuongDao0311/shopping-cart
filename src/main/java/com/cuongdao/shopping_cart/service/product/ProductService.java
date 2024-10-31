@@ -5,7 +5,7 @@ import com.cuongdao.shopping_cart.model.Category;
 import com.cuongdao.shopping_cart.model.Product;
 import com.cuongdao.shopping_cart.repository.CategoryRepository;
 import com.cuongdao.shopping_cart.repository.ProductRepository;
-import com.cuongdao.shopping_cart.requests.ProductDTO;
+import com.cuongdao.shopping_cart.dto.ProductDTO;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
