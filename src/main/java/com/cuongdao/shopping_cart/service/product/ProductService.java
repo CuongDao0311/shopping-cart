@@ -66,7 +66,7 @@ public class ProductService implements InterProductService{
 
     @Override
     public List<Product> getProductsByName(String name) {
-        return productRepository.findByName();
+        return productRepository.findByName(name);
     }
 
     @Override

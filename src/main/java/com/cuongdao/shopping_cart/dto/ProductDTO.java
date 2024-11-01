@@ -5,6 +5,7 @@ import lombok.Data;
 import org.springframework.stereotype.Component;
 
 import java.math.BigDecimal;
+import java.util.List;
 
 @Data
 @Component
@@ -15,4 +16,5 @@ public class ProductDTO {
     private BigDecimal price;
     private int inventory;
     private Category category;
+    private List<ImageDTO> images;
 }
